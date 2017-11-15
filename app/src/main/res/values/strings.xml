@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Authentication-with-Firebase</string>
+    <string name="facebook_app_id">211492189392050</string>
+    <string name="fb_login_protocol_scheme">fb211492189392050</string>
+    <string name="action_logout"> Log Out</string>
+    <string name="loading">Loading</string>
+</resources>
